@@ -1,6 +1,8 @@
 # Evara — AI-Powered Women’s Health Companion
-
 Evara is an AI-powered women’s health platform focused on personalized wellness, hormonal health, cycle tracking, and lifestyle guidance.
+<img width="444" height="1054" alt="WhatsApp Image 2026-04-09 at 7 27 43 PM" src="https://github.com/user-attachments/assets/8f2e9a39-7420-446f-a776-f2d46f07676d" />
+
+
 
 Built using:
 - React Native
